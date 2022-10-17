@@ -1,0 +1,2 @@
+node --version
+gem --version
